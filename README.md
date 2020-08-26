@@ -99,4 +99,4 @@ Below is a full schema of how this might work.
 
 Note: Good practice for this problem is be able to list some of kinds of data in each table and what are the foreign and primary keys.
 
-![Sample Schema](./assets/fandangoSchema.png)
+![Sample Schema](./fandangoSchema.png)
